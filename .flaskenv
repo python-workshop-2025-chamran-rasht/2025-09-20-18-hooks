@@ -1,2 +1,5 @@
-# Put secrets in .env, not here
-FLASK_APP=exercise
+FLASK_SECRET_KEY=abksjcbajscb
+MAIL_SERVER=example-mailserver.com
+MAIL_USERNAME=microblog
+MAIL_PASSWORD=jancsanckasnlckasnclasnkc
+ADMIN=abcdef@example.com
